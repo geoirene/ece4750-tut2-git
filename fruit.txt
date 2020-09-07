@@ -1,1 +1,6 @@
 apple
+mango
+plum
+orange
+strawberry
+melon
